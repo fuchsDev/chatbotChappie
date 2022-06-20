@@ -5,4 +5,4 @@ Projeto desenvolvido para aprendizado sobre chatbots utilizando a linguagem de p
 Ferramentas utilizadas:
 - VS Code
 - Python
-- Chatterbot (https://chatterbot.readthedocs.io/en/stable/setup.html)
+- Chatterbot (https://chatterbot.readthedocs.io/en/stable/index.html)
