@@ -1,4 +1,8 @@
 #Projeto Chatbot em Python
 
-- Pesquisar e estudar sobre bibliotecas de chatbots
-- Usar como base de aprendizado as legendas do filme do Chappie
+Projeto desenvolvido para aprendizado sobre chatbots utilizando a linguagem de programação python;
+
+Ferramentas utilizadas:
+- VS Code
+- Python
+- Chatterbot (https://chatterbot.readthedocs.io/en/stable/setup.html)
