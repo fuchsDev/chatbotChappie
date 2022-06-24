@@ -6,3 +6,6 @@ Ferramentas utilizadas:
 - VS Code
 - Python
 - Chatterbot (https://chatterbot.readthedocs.io/en/stable/index.html)
+
+Próximas implementações:
+- Adicionar aprendizado por arquivo .txt

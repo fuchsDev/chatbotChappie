@@ -1,12 +1,12 @@
+import os
 from chatterbot import ChatBot
 chatbot = ChatBot("Chappie")
-
 
 from chatterbot.trainers import ListTrainer
 
 conversation = [
     "Hello",
-    "Hi there!",
+    "Hi there! My name is Chappie.",
     "How are you doing?",
     "I'm doing great.",
     "That is good to hear",
