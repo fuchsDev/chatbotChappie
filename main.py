@@ -22,7 +22,6 @@ trainer.train(conversation)
 while True:
     question = input("You: ")
     response = chatbot.get_response(question)
-    #print('Chappie: ',response)
     if float(response.confidence) > 0.5:
         print('Chappie: ',response)
     else:
